@@ -92,18 +92,13 @@ Customer-Shopping-Trends-SQL-Analysis
 │
 ├── customber_shopping_trend.sql
 │
-├── Dashboard
-│   ├── Shopping_Trends.pbix
-│   └── Dashboard_Screenshot.png
-│
+├── Shopping_Trends.pbix
+|
 ├── Images
-│  
 │
-├── Insights
-│   └── Business_Insights.md
+├── Business_Insights.md
 │
 ├── README.md
-└── LICENSE
 ```
 
 ---
