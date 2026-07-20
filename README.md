@@ -88,28 +88,16 @@ Business Insights
 ```text
 Customer-Shopping-Trends-SQL-Analysis
 │
-├── Dataset
-│   └── customer_shopping_behavior.csv
+├──  customer_shopping_behavior.csv
 │
 ├── SQL Scripts
-│   ├── 01_Database_Setup.sql
-│   ├── 02_Data_Cleaning.sql
-│   ├── 03_Data_Exploration.sql
-│   ├── 04_Business_Analysis.sql
-│   ├── 05_Intermediate_SQL.sql
-│   ├── 06_Advanced_SQL.sql
-│   └── 07_Final_Report.sql
 │
 ├── Dashboard
 │   ├── Shopping_Trends.pbix
 │   └── Dashboard_Screenshot.png
 │
 ├── Images
-│   ├── Banner.png
-│   ├── Dashboard.png
-│   ├── KPI.png
-│   ├── SQL_Queries.png
-│   └── Data_Model.png
+│  
 │
 ├── Insights
 │   └── Business_Insights.md
