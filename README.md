@@ -90,7 +90,7 @@ Customer-Shopping-Trends-SQL-Analysis
 │
 ├──  customer_shopping_behavior.csv
 │
-├── SQL Scripts
+├── customber_shopping_trend.sql
 │
 ├── Dashboard
 │   ├── Shopping_Trends.pbix
